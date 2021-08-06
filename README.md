@@ -8,6 +8,6 @@
 
 ## Spring
 
- - [Spring Security](https://github.com/jhh992000/TIL/blob/main/spring-security/20210730.md)
+ - [Spring Security](https://github.com/jhh992000/TIL/blob/main/spring-security/main-spring-security.md)
 
    
